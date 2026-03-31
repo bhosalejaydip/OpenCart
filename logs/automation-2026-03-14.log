@@ -1,0 +1,41 @@
+2026-03-14 14:50:04 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\JAYDIP\eclipse-workspace\OpenCart\grouping.xml
+
+2026-03-14 14:50:34 INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistration ******
+2026-03-14 14:50:34 INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-03-14 14:50:35 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-03-14 14:50:35 INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details
+2026-03-14 14:50:38 INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-03-14 14:50:38 INFO  testCases.TC001_AccountRegistrationTest - Test passed
+2026-03-14 14:50:38 INFO  testCases.TC001_AccountRegistrationTest - *** End the TC001_AccountRegistration***
+2026-03-14 14:50:47 INFO  testCases.TC002_LoginTest - **********Starting TC_002)LOginTest***
+2026-03-14 14:50:49 INFO  testCases.TC002_LoginTest - *********Finished TC002 Lohin Test *****
+2026-03-14 14:55:49 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\JAYDIP\eclipse-workspace\OpenCart\grouping.xml
+
+2026-03-14 14:56:22 INFO  testCases.TC002_LoginTest - **********Starting TC_002)LOginTest***
+2026-03-14 14:56:31 INFO  testCases.TC002_LoginTest - *********Finished TC002 Lohin Test *****
+2026-03-14 19:41:57 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\JAYDIP\eclipse-workspace\OpenCart\grouping.xml
+
+2026-03-14 19:42:35 INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistration ******
+2026-03-14 19:42:36 INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-03-14 19:42:37 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-03-14 19:42:37 INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details
+2026-03-14 19:42:39 INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-03-14 19:42:40 INFO  testCases.TC001_AccountRegistrationTest - Test passed
+2026-03-14 19:42:40 INFO  testCases.TC001_AccountRegistrationTest - *** End the TC001_AccountRegistration***
+2026-03-14 19:42:52 INFO  testCases.TC002_LoginTest - **********Starting TC_002)LOginTest***
+2026-03-14 19:42:56 INFO  testCases.TC002_LoginTest - *********Finished TC002 Lohin Test *****
+2026-03-14 19:57:49 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\JAYDIP\eclipse-workspace\OpenCart\grouping.xml
+
+2026-03-14 19:58:16 INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistration ******
+2026-03-14 19:58:17 INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-03-14 19:58:18 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-03-14 19:58:18 INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details
+2026-03-14 19:58:27 INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-03-14 19:58:27 INFO  testCases.TC001_AccountRegistrationTest - Test passed
+2026-03-14 19:58:27 INFO  testCases.TC001_AccountRegistrationTest - *** End the TC001_AccountRegistration***
+2026-03-14 19:58:45 INFO  testCases.TC002_LoginTest - **********Starting TC_002)LOginTest***
+2026-03-14 19:58:48 INFO  testCases.TC002_LoginTest - *********Finished TC002 Lohin Test *****

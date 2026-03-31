@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration status="Info">
+
+    <Properties>
+        <Property name="logDir">logs</Property>
+        <Property name="logPattern">%d{yyyy-MM-dd HH:mm:ss} %-5level %logger{36} - %msg%n</Property>
+    </Properties>
+
+    <Appenders>
+
+        <!-- Console Appender -->
+        <Console name="ConsoleAppender" target="SYSTEM_OUT">
+            <PatternLayout pattern="${logPattern}"/>
+        </Console>
+
+        <!-- Rolling File Appender -->
+        <RollingFile name="FileAppender"
+                     fileName="${logDir}/automation.log"
+                     filePattern="${logDir}/automation-%d{yyyy-MM-dd}.log">
+
+            <PatternLayout pattern="${logPattern}"/>
+
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1"/>
+            </Policies>
+
+        </RollingFile>
+
+    </Appenders>
+
+    <Loggers>
+
+        <Root level="info">
+            <AppenderRef ref="ConsoleAppender"/>
+            <AppenderRef ref="FileAppender"/>
+        </Root>
+
+    </Loggers>
+
+</Configuration>

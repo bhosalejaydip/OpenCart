@@ -1,0 +1,9 @@
+2026-03-28 09:16:15 INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistration ******
+2026-03-28 09:16:16 INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-03-28 09:16:19 INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-03-28 09:16:19 INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details
+2026-03-28 09:16:26 INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-03-28 09:16:26 INFO  testCases.TC001_AccountRegistrationTest - Test passed
+2026-03-28 09:16:26 INFO  testCases.TC001_AccountRegistrationTest - *** End the TC001_AccountRegistration***
+2026-03-28 09:16:45 INFO  testCases.TC002_LoginTest - **********Starting TC_002)LOginTest***
+2026-03-28 09:16:52 INFO  testCases.TC002_LoginTest - *********Finished TC002 Lohin Test *****
